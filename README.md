@@ -33,8 +33,10 @@ _Disclaimer: All datasets and reports do not represent any company, institution 
 - Dashboard Development
 
 ## Modelling
-Automatically derived relationships are adjusted to remove and replace them with the necessary information. below is the dataset model
+Automatically derived relationships are adjusted to remove and replace them with the necessary information, below is the dataset model.
+
 <img width="190" alt="image" src="https://github.com/Oladipupo09/Digital-Marketing-Campaign-KPI/assets/133363227/618623ed-4659-4847-8728-e676f232e68e">
+
 
 ## Data Visulization
 
